@@ -1,7 +1,10 @@
 # Hypothesis EPUB Demo Content Library
 
 A curated set of EPUBs for use in demonstrating Hypothesis integration with EPUB
-readers, such as Readium.js.
+readers, such as ReadiumJS.
+
+This repository is hosted as a static site in an S3 bucket accessible at
+`https://cdn.hypothes.is/demos/epub/content/`.
 
 ## Usage with ReadiumJS
 
