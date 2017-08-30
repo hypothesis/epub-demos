@@ -4,7 +4,8 @@ A curated set of EPUBs for use in demonstrating Hypothesis integration with EPUB
 readers, such as ReadiumJS.
 
 This repository is hosted as a static site in an S3 bucket accessible at
-`https://cdn.hypothes.is/demos/epub/content/`.
+`https://cdn.hypothes.is/demos/epub/content/`. You can [browse the library
+here](https://cdn.hypothes.is/demos/epub/readium-js/index.html?epubs=%2Fdemos%2Fepub%2Fcontent%2Flibrary.json).
 
 ## Usage with ReadiumJS
 
