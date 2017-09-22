@@ -3,6 +3,6 @@
         "title" : "Moby Dick (Hypothesis Ed.)",
         "author" : "Herman Melville",
         "coverHref" : "moby-dick/cover.jpg",
-        "rootUrl" : "moby-dick/book.epub"
+        "rootUrl" : "moby-dick/book"
     }
 ]
