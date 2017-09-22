@@ -22,3 +22,16 @@ http://localhost:8080/index.html?epubs=http://localhost:8080/hypothesis-epub-con
 
 If the Readium cloud reader is hosted on a different domain than this demo
 content, the demo content must allow cross-origin access.
+
+## Deploying content and demos to S3
+
+To deploy updated content to the cdn.hypothes.is S3 bucket:
+
+```sh
+export AWS_ACCESS_KEY_ID=<access key for S3 bucket>
+export AWS_SECRET_ACCESS_KEY=<secret key for S3 bucket>
+./deploy-content.sh
+```
+
+To build and deploy the ReadiumJS and Epub.js viewers, see the [instructions for
+deploying the viewers](docs/viewers.md).
