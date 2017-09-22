@@ -15,7 +15,7 @@ The viewers are hosted in the cdn.hypothes.is S3 bucket and are publicly accessi
 
    Check out the `hypothesis-demo` branch in the submodules `readium-js-viewer`,
    `readium-js` and `readium-shared-js`. See [Slack
-   chat]https://annotating.slack.com/archives/C5CE202DT/p1505751892000282)
+   chat](https://annotating.slack.com/archives/C5CE202DT/p1505751892000282)
 
 2. Test the demo locally to make sure it is working
 3. Log in to our AWS management console at https://aws.hypothes.is
