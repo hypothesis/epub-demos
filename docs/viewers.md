@@ -2,7 +2,8 @@
 
 The viewers are hosted in the cdn.hypothes.is S3 bucket and are publicly accessible at:
 
-**ReadiumJS**: https://cdn.hypothes.is/demos/epub/readium-js/index.html.
+**ReadiumJS**: https://cdn.hypothes.is/demos/epub/readium-js/index.html
+
 **Epub.js**: https://cdn.hypothes.is/demos/epub/epub.js/index.html
 
 ## Building and deploying
